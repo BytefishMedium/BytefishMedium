@@ -4,6 +4,8 @@
 
 Like the others here, I am also a programmer, currently mainly engaged in front-end development. I used **Bytefish** as my pen name, which means to swim in the digital ocean like a fish.
 
-You can also find me on:
-- [Medium](https://bytefish.medium.com/)
-- [Twitter](https://twitter.com/BytefishMedium)
+### Medium
+
+I'am a writer on [Medium](https://bytefish.medium.com) who continuously writing front-end related articles.
+
+[![](./Medium-status-2021-10-12.png)](https://bytefish.medium.com)
