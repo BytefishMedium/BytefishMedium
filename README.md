@@ -1,11 +1,11 @@
-## Hello World 👋
+<h1 align="center">Hi 👋, I'm Bytefish</h1>
+<h3 align="center">A frontend developer and a tech writer on Medium.com</h3>
 
-> It is an honor to be able to live in such a digital age. Through the Internet, people who are almost impossible to meet in real life can gather together to exchange knowledge and help each other.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://bytefish.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bytefish" height="30" width="40" /></a>
+<a href="https://twitter.com/BytefishMedium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bytefishmedium" height="30" width="40" /></a>
+</p>
 
-Like the others here, I am also a programmer, currently mainly engaged in front-end development. I used **Bytefish** as my pen name, which means to swim in the digital ocean like a fish.
-
-### Medium
-
-I'am a writer on [Medium](https://bytefish.medium.com) who continuously writing front-end related articles.
-
-[![](./Medium-status-2021-10-12.png)](https://bytefish.medium.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
