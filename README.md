@@ -17,6 +17,27 @@ Below are the articles I wrote on Medium. Although they are all placed behind Pa
 
 - [Write More Reusable Code by Properly Encapsulate Functions](https://bytefish.medium.com/write-more-reusable-code-by-properly-encapsulate-functions-5eaa379a34f9?sk=a2f109c4717b69bf408648be3907cca9)
 
+- [An Interview Question About The Execution Order of Asynchronous Functions in the Event Loop](https://bytefish.medium.com/the-execution-order-of-asynchronous-functions-in-the-event-loop-ff641dae4f09?sk=627cc312cd2853e213a09db259acd9c4)
+
+- [10 Powerful Uses of Spread Syntax(…) That You’ll Love](https://javascript.plainenglish.io/10-powerful-uses-of-spread-syntax-that-youll-love-a3fe70ae503c?sk=32363cfc054f29547224a235f1345306)
+
+- [Clean Up Your Code by Removing ‘if-else’ Statements](https://bytefish.medium.com/clean-up-your-code-by-removing-if-else-statements-31102fe3b083?sk=4397552c5ed67b5dee735173bf87e456)
+
+
+## TypeScript
+
+- [10 Confusing TypeScript Notations I Wish I Understood Earlier](https://javascript.plainenglish.io/10-confusing-typescript-notations-i-wish-i-understood-earlier-d1c6f722828c?sk=5541f6cdae441760ed3ba0d12a430fbb)
+
+- [Pick by Values in TypeScript — A Widely Used Trick in Many Famous Projects That You Should Know](https://javascript.plainenglish.io/pick-by-values-in-typescript-a-widely-used-trick-in-many-famous-projects-that-you-should-know-38801eaac1aa?sk=9e60da51a4a8c32f10e9c8a62624f490)
+
+## CSS
+
+- [How to Create TikTok Logo With Pure CSS?](https://betterprogramming.pub/how-to-create-tiktok-logo-with-pure-css-d80b019c94d3?sk=b9661723439897441edf8424056113f4)
+
+
+## General
+
+- [Understand Base64 Encoding with Diagrams](https://bytefish.medium.com/understand-base64-encoding-with-diagrams-ac12781ac788?sk=6a8eba11f4e0abf8edfea7c04aa7a30e)
 
 ## Medium Membership
 If you plan to subscribe to Medium Membership, you can consider using my referral link. This way I can get a small reward from Medium, and you don’t need to pay extra. Thank you for your support.
