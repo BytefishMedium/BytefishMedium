@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Bytefish</h1>
 <h3 align="center">A frontend developer and a tech writer on Medium.com</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://bytefish.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bytefish" height="30" width="40" /></a>
-<a href="https://twitter.com/BytefishMedium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bytefishmedium" height="30" width="40" /></a>
-</p>
+Below are the articles I wrote on Medium. Although they are all placed behind Paywall, they can still be read for free via [Friend Link](https://help.medium.com/hc/en-us/articles/360006543813-About-Friend-Links) (just click on the article link below). Hope these articles are useful for you, thanks for reading.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Algorithm
+
+- [Algorithm Visualization: Maze Generation and Solution](https://bytefish.medium.com/algorithm-visualization-maze-generation-and-solution-82308c12d50c?sk=e0c3ca67c92133ec2fa0d1f73c2b9b71)
+ 
+  - [Render a Maze in Canvas](https://bytefish.medium.com/how-to-render-a-maze-in-canvas-9aeb0fdc0514?sk=738cd00bc8c64eb4c383cae0caf0b36f)
+  - [Use Depth-First Search Algorithm to Solve a Maze](https://bytefish.medium.com/use-depth-first-search-algorithm-to-solve-a-maze-ae47758d48e7?sk=70d48d524c4effd3312e0c20ab937eaa)
+
+## JavaScript
+
+
+- [Writing High Order Functions for General Process Like a Senior JavaScript Developer](https://betterprogramming.pub/writing-high-order-functions-for-general-process-like-a-senior-javascript-developer-4d025baa3dc6?sk=9a4761ecf9f4ad99d91d6d835b1ef204)
+
+- [Write More Reusable Code by Properly Encapsulate Functions](https://bytefish.medium.com/write-more-reusable-code-by-properly-encapsulate-functions-5eaa379a34f9?sk=a2f109c4717b69bf408648be3907cca9)
+
+
+## Medium Membership
+If you plan to subscribe to Medium Membership, you can consider using my referral link. This way I can get a small reward from Medium, and you don’t need to pay extra. Thank you for your support.
+
+https://bytefish.medium.com/membership
+
