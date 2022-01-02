@@ -39,6 +39,10 @@ Below are the articles I wrote on Medium. Although they are all placed behind Pa
 
 - [Understand Base64 Encoding with Diagrams](https://bytefish.medium.com/understand-base64-encoding-with-diagrams-ac12781ac788?sk=6a8eba11f4e0abf8edfea7c04aa7a30e)
 
+## Resources
+
+- [Awesome GitHub Repos For Frontend Developer](https://medium.com/frontend-canteen/awesome-github-repos-for-frontend-developer-891495413021?sk=851b5008d959c0349ed50c5fe442a44f)
+
 ## Medium Membership
 If you plan to subscribe to Medium Membership, you can consider using my referral link. This way I can get a small reward from Medium, and you don’t need to pay extra. Thank you for your support.
 
