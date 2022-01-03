@@ -43,6 +43,8 @@ Below are the articles I wrote on Medium. Although they are all placed behind Pa
 
 - [Awesome GitHub Repos For Frontend Developer](https://medium.com/frontend-canteen/awesome-github-repos-for-frontend-developer-891495413021?sk=851b5008d959c0349ed50c5fe442a44f)
 
+- [Awesome Websites For Frontend Developers](https://bytefish.medium.com/a1cf94e1c9de?sk=04a77d89e830f0632de1ddf0fed7b0fb)
+
 ## Medium Membership
 If you plan to subscribe to Medium Membership, you can consider using my referral link. This way I can get a small reward from Medium, and you don’t need to pay extra. Thank you for your support.
 
