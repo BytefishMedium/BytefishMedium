@@ -1,6 +1,15 @@
 <h1 align="center">Hello World, I'm Shuai Li (李帅)</h1>
 <h3 align="center">I'm playing a game called Earth Online</h3>
 
+## Life Missions
+- Be happy every day, and record every wonderful moment
+- Leave enough corpus, then train an AI version of myself and my family
+
+## Game Missions
+- Achieve Artificial General Intelligence
+- Use AI as the 5th paradigm to solve all diseases
+- If possible, upload my own consciousness to a program
+
 ## Find me at
 
 English channels:
