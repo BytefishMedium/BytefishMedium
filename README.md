@@ -10,6 +10,7 @@ English channels:
 中文频道：
 - [YouTube@李很帅的地球Online](https://www.youtube.com/channel/UCMsUNIYRi60iYW0V9f3jjng)
 - [BiliBili@李很帅的地球Online](https://space.bilibili.com/67963642)
+- 抖音@李很帅的地球Online
 
 
 ## About Me
